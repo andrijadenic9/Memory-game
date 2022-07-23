@@ -23,7 +23,7 @@ function makeGame(cards) {
 
 	for (let i = 0; i < cards; i++) {
 		let random = Math.floor(Math.random() * allNumbers.length);
-		string += '<div class="box"><div class="back"><img src="/images/' + allNumbers[random] + '.png"></div><div class="front visible"><img src="/images/' + allNumbers[random] + '.png"></div></div>';
+		string += '<div class="box"><div class="back"><img src="images/' + allNumbers[random] + '.png"></div><div class="front visible"><img src="images/' + allNumbers[random] + '.png"></div></div>';
 
 		// ? every time you create a div with an image, remove that image from the array so it doesn't repeat itself
 		allNumbers.splice(random, 1);
