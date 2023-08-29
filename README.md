@@ -17,7 +17,7 @@ The Memory Game provides a fun and challenging experience that puts your memory 
   - Successfully match all pairs to win the game.
   - Test your memory and concentration to find all the pairs as efficiently as possible.
 
-## Play Memory Game
+## Play the Memory Game
 
 Challenge your memory and have fun with the Memory Game. Put your concentration skills to the test as you uncover matching pairs of cards. If you have any questions, feedback, or would like to contribute, feel free to reach out. Ready to put your memory to the test?
 
